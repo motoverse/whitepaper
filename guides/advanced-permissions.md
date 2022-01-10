@@ -4,5 +4,5 @@ At the core of the motoverse lies our unique motorbikes. Those are fully compati
 
 Each bike is guaranteed to be minted different from all the others. And that is **BEFORE** we add color variations to make it your extra slick! So hop on and take your ride to the next level!
 
-![](../.gitbook/assets/fe04d7085d3f8be94a27a8c97b995090.png) ![](../.gitbook/assets/577b3a9f72fd64b45d390f1371970b79.png) ![](../.gitbook/assets/4579371ef401fa71ed3cfe909c979ed3.png) ![](../.gitbook/assets/218c3fd12cfb37517ae3ff4d2c3ad031.png)
+![](../.gitbook/assets/prototype\_04\_example.png) ![](../.gitbook/assets/prototype\_02\_example.png) ![](../.gitbook/assets/prototype\_03\_example.png) ![](../.gitbook/assets/prototype\_01\_example.png)
 
