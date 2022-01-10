@@ -4,4 +4,5 @@
 
 ## Gameplan
 
-* [Motorbikes](gameplan/motorbikes.md)
+* [Motorbikes](guides/advanced-permissions.md)
+* [Racing](gameplan/racing.md)
