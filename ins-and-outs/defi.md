@@ -28,4 +28,7 @@ To clarify this, let's use an example of this lovely bike. Le
 * So in total, there are **4 MParts** in existence
 * _RacerA_ decides to cash out **2 MParts** and exchange them for **AVAX**
 * Our _Treasury_ will do the calculation above where
+    - Interest = 0.1 AVAX
+    - TotalSupply = 4 MParts
+    - MPartsQuantity = 2 MParts
 
