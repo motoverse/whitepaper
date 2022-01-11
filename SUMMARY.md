@@ -10,3 +10,8 @@
 ## Ins and outs
 
 * [DeFi](ins-and-outs/defi.md)
+
+## Contact
+
+* [Community](contact/community.md)
+* [Team](contact/team.md)
