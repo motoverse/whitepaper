@@ -8,7 +8,10 @@ AAA game developer / artist and motorcycle enthusiast.
 
 ### Pavel \<sofo>
 
-![](<../.gitbook/assets/helme\_pavel\_01 (1).png>)
+<div style="display: flex;">
+    <h3>Pavel &lt;sofo&gt;</h3>
+    <img style="width:512px;" src="../.gitbook/assets/helme_pavel_01.png" />
+</div>
 
 Software sherpha that loves all technology!&#x20;
 
