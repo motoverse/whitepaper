@@ -2,7 +2,7 @@
 
 ### Dominik
 
-AAA game designer that loves art.
+AAA game developer / artist and motorcycle enthusiast.
 
 ### Pavel \<sofo>
 
