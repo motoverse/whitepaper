@@ -1,6 +1,6 @@
 # Team
 
-![](../.gitbook/assets/helmet\_dominik\_01.png) ![](../.gitbook/assets/helmet\_venca\_01.png) ![](../.gitbook/assets/helme\_pavel\_01.png)
+![](../.gitbook/assets/helmet\_dominik\_01\_small.png) ![](../.gitbook/assets/helmet\_pavel\_01\_small.png) ![](../.gitbook/assets/helmet\_venca\_01\_small.png)
 
 ### Dominik
 
