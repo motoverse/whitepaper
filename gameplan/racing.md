@@ -1,5 +1,7 @@
 # Racing
 
+![](../.gitbook/assets/Race\_banner\_01.png)
+
 What more you can sign up your bike on for a race!&#x20;
 
 With Motoverse, you get access to all kinds of events. We’re working hard to make the experience of participating in races fun and exciting.
