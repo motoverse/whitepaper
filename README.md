@@ -8,4 +8,4 @@ Motoverse is the perfect game for anyone who loves both motorbikes and cryptocur
 So come join the fun today!
 {% endhint %}
 
-[https://motoverse.games/](https://motoverse.games)
+{% embed url="https://motoverse.games" %}

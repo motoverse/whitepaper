@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to the motoverse](README.md)
+* [How to get started](how-to-get-started.md)
 
 ## Gameplan
 
