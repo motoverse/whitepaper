@@ -10,8 +10,7 @@ As a reward for playing the game you will get rewarded of course.&#x20;
 
 ### Moto Parts
 
-![](../.gitbook/assets/currency\_PARTS\_08.png)
-<img src="../.gitbook/assets/currency_PARTS_08.png" width="200" height="200" />
+<img src="../.gitbook/assets/currency_PARTS_08.png" width="100" height="100" />
 
 One type of reward that you can get from a race is our in-game token MotoParts or **MParts** for short.
 
