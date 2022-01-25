@@ -10,7 +10,7 @@ As a reward for playing the game you will get rewarded of course.
 
 ### Moto Parts
 
-<img src="../.gitbook/assets/currency_PARTS_08.png" width="50" height="50" />
+![](../.gitbook/assets/currency\_PARTS\_small.png)
 
 One type of reward that you can get from a race is our in-game token MotoParts or **MParts** for short.
 
@@ -18,6 +18,6 @@ MParts may be yet to gain its full potential, but you can use it in exchange for
 
 ### Experience
 
-<img src="../.gitbook/assets/currency_XP_03.png" width="50" height="50" />
+![](../.gitbook/assets/currency\_XP\_small.png)
 
 For participating in the events you also get another crypto token **MExp.** This is a token that marks you as a veteran rider. It is not transferable and gives you acces to several perks and tools.
