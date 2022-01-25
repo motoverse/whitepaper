@@ -18,5 +18,7 @@ MParts may be yet to gain its full potential, but you can use it in exchange for
 
 ### Experience
 
+<img src="../.gitbook/assets/currency_PARTS_08.png" width="100" height="100" />
+
 For participating in the events you also get another crypto token **MExp.** This is a token that marks you as a veteran rider. It is not transferable and gives you acces to several perks and tools.
 
