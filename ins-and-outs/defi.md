@@ -6,12 +6,12 @@ However, we thought of a better solution in combining gaming with decentralized 
 
 ### How Does It Work
 
-All the proceeds from bike minting are invested into a stable DeFi intrest bearing asset a.k.a. farm.
+All the proceeds from bike minting are invested into a stable DeFi interest bearing asset a.k.a. farm.
 
 By playing the game racer gets rewarded in a form of MParts token. We then enable any holder of MParts tokens to exchange them for AVAX tokens in a rate calculated based on the current interest accrued on the global invested pool and the total supply of MParts in existence.
 
 $$
-MPartsValue = (Interes / TotalSupply) * MPartsQuantity
+MPartsValue = (Interest / TotalSupply) * MPartsQuantity
 $$
 
 To clarify this, let's use an example of this lovely bike.
