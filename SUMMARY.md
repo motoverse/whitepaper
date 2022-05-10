@@ -8,6 +8,7 @@
 * [Motorbikes](guides/advanced-permissions.md)
 * [Racing](gameplan/racing.md)
 * [Upgrades](gameplan/upgrades.md)
+* [Level UP](gameplan/level-up.md)
 
 ## Ins and outs
 
