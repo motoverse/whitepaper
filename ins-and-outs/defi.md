@@ -1,14 +1,16 @@
-# DeFi
+# Tokenomics
 
-You might be asking where does the profit distributed to the racers comes from. We could just generate our own in game currency MParts and use that as the only reward for the racers similarly to other popular titles in the space.
+You might be asking where the profit distributed to the racers comes from. We could just generate our own in-game currency **$MParts** and use that as the only reward for the racers not unlike other popular titles in the space.
 
-However, we thought of a better solution in combining gaming with decentralized finance!
+The problem with this model that we see is that the value of in-game currency is dictated by demand from the players alone. This in turn means the need to have new players joining all the time.
+
+However, we thought of a better solution in combining gaming with decentralized finance! In that way, from day one there is **$AVAX** collateral backing up **$MParts** basically from day one.
 
 ### How Does It Work
 
 All the proceeds from bike minting are invested into a stable DeFi interest bearing asset a.k.a. farm.
 
-By playing the game racer gets rewarded in a form of MParts token. We then enable any holder of MParts tokens to exchange them for AVAX tokens in a rate calculated based on the current interest accrued on the global invested pool and the total supply of MParts in existence.
+By playing the game racer gets rewarded in a form of **$MParts** tokens. We then enable any holder of **$MParts** tokens to exchange them for **$AVAX** tokens in a rate calculated based on the current interest accrued on the global invested pool and the total supply of **$MParts** in existence.
 
 $$
 MPartsValue = (Interest / TotalSupply) * MPartsQuantity

@@ -12,7 +12,7 @@
 
 ## Ins and outs
 
-* [DeFi](ins-and-outs/defi.md)
+* [Tokenomics](ins-and-outs/defi.md)
 * [Marketplace](ins-and-outs/marketplace.md)
 
 ## Contact
